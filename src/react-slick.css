@@ -1,0 +1,10 @@
+/* Resolve add spaces between Slick carousel item */
+.slick-slide > div {
+    margin: 0 10px;
+}
+.slick-list {
+    margin: 0 -10px;
+}
+
+/* Resolve None Display prev & next button, Because problem with layout small device */
+/* arrows: false, */

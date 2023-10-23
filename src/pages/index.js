@@ -1,0 +1,13 @@
+export { default as SharedLayout } from './SharedLayout';
+export { default as Home } from './Home';
+export { default as About } from './About';
+export { default as Error } from './Error';
+export { default as Contact } from './Contact';
+export { default as NestedLayout } from './NestedLayout';
+export { default as Business } from './Business';
+export { default as Entertainment } from './Entertainment';
+export { default as Sports } from './Sports';
+export { default as Technology } from './Technology';
+export { default as Science } from './Science';
+export { default as Health } from './Health';
+export { default as SearchResult } from './SearchResult';
