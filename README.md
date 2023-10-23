@@ -4,7 +4,7 @@
 
 ### Tech stack
 - React.js
-- News API
+- News API, Contenful headless CMS
 - TailwindCSS
 - React-router
 - React-slick
