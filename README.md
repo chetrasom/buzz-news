@@ -19,7 +19,7 @@
 - Select News title with a smooth marquee
 - Touch and scroll with the news slider.
 
-👉 Live Demo: <a href='#'>Buzz News Demo</a>
+👉 Live Demo: <a href='https://buzz-news.vercel.app/'>Buzz News Demo</a>
 
 ### Screenshots of the Project
 
